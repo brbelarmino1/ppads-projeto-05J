@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Aplicativo de utilidades"
 
 Este documento apresenta uma solução de software para o projeto Utilidade, solicitado pelo cliente Tomaz Mikio Sasaki, apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas do sistema.
 
@@ -65,23 +65,41 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Cliente: Quem necessita do serviço
+- Cliente faz a escolha do tipo de serviço que precisa;
+-  Escolhe profissional;
+- Acompanha  o andamento do serviço;
+- Faz pagamento;
+- Avalia profissional.
+
+* Profissional: Aquele que oferece seu trabalho como forma de auxílio ao cliente. 
+- Prestar serviço solicitado;
+- Seguir cronograma;
+- Ser pontual;
+- Buscar excelência, visando boa avaliação. 
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Cadastro: Permite cadastrar na base de dados da aplicação clientes e profissionais.
+
+* Busca: Permite que um cliente possa buscar um profissional que atenda sua necessidade em um serviço de utilidade.
+
+* Contato: São informados dados do profissional para que possa ser feito contato entre ambas as partes.
+
+* Monitoramento: Permite que o cliente monitore o contratado durante todo o processo de execução do seu trabalho.
+
+* Pagamento: Formaliza o pagamento pelo serviço prestado.
+
+* Avaliação: Funcionalidade onde o cliente pode atribuir uma nota ao profissional que lhe prestou serviço.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Prazo: 6 meses.
+* Sistema Operacional: Android, Windows.
+* Hardware: smartphone.
+* Permitir acessar câmera, imagens.
+* Obrigatória conexão com internet para busca do profissional.
+* Consultar acompanhamento poderá ser off-line.
 
 ## Protótipos de tela
 
