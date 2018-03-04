@@ -106,7 +106,7 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 ### Protótipos para funcionalidade 1
 
 ![](proto1.png)
-![](Tela01Login.png)
+![](Tela01Login.png =100x100)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
