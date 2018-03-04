@@ -31,52 +31,52 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 * Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.
 É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. 
 É envolvido por:
-- Entender o caso;
-- Definir cenário;
-- Definir e escrever regras;
-- Criar funcionalidades;
-- Pode atuar como gestor da ferramenta.
+. Entender o caso;
+. Definir cenário;
+. Definir e escrever regras;
+. Criar funcionalidades;
+. Pode atuar como gestor da ferramenta.
 
 * Desenvolvedor: Profissional que atua na criação efetiva da aplicação.
 É responsável por escrever o código de toda a lógica do funcionamento em linguagem de programação, utilizando as tecnologias disponíveis neste mercado:
 É envolvido por:
-- Atribuir para o código a regra descrita na especificação;
-- Implementar as soluções;
-- Integrar componentes necessários;
-- Responsável pela base de dados.
+. Atribuir para o código a regra descrita na especificação;
+. Implementar as soluções;
+. Integrar componentes necessários;
+. Responsável pela base de dados.
 
 * Profissional que faz a validação das funcionalidades da aplicação. 
 É responsável por validar se de fato tudo o que foi descrito na especificação foi implementado no código. 
 É envolvido por:
-- Verificar a correlação entre especificação e desenvolvimento;
-- Encontrar falhas, erros;
-- Apontar correção nas regras;
-- Apontar correções no código;
-- Assegurar qualidade no funcionamento. 
+. Verificar a correlação entre especificação e desenvolvimento;
+. Encontrar falhas, erros;
+. Apontar correção nas regras;
+. Apontar correções no código;
+. Assegurar qualidade no funcionamento. 
 
 * Analista de Produção
 Linha de comunicação e frente direta com o usuário, intermediador do contato com parte técnica (analista de requisitos, desenvolvedor, analista de teste)
 É responsável por assegurar o funcionamento da aplicação em ambiente de produção, sendo este o que efetivamente o cliente utiliza.
 É envolvido por:
-- Configurar o funcionamento em ambiente de produção;
-- Primeira comunicação quando o cliente entra em contato;
-- Monitora o ambiente;
-- Conhecimento também da parte técnica.
+. Configurar o funcionamento em ambiente de produção;
+. Primeira comunicação quando o cliente entra em contato;
+. Monitora o ambiente;
+. Conhecimento também da parte técnica.
 
 ## Usuários
 
 * Cliente: Quem necessita do serviço
-- Cliente faz a escolha do tipo de serviço que precisa;
--  Escolhe profissional;
-- Acompanha  o andamento do serviço;
-- Faz pagamento;
-- Avalia profissional.
+. Cliente faz a escolha do tipo de serviço que precisa;
+.  Escolhe profissional;
+. Acompanha  o andamento do serviço;
+. Faz pagamento;
+. Avalia profissional.
 
 * Profissional: Aquele que oferece seu trabalho como forma de auxílio ao cliente. 
-- Prestar serviço solicitado;
-- Seguir cronograma;
-- Ser pontual;
-- Buscar excelência, visando boa avaliação. 
+. Prestar serviço solicitado;
+. Seguir cronograma;
+. Ser pontual;
+. Buscar excelência, visando boa avaliação. 
 
 ## Funcionalidades do produto
 
@@ -106,6 +106,7 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 ### Protótipos para funcionalidade 1
 
 ![](proto1.png)
+![](Tela 01 – Login.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
