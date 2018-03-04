@@ -28,14 +28,14 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
  
 ## Interessados
 
-* Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.\n
-É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. \n
-É envolvido por:
-Entender o caso;
-Definir cenário;
-Definir e escrever regras;
-Criar funcionalidades;
-Pode atuar como gestor da ferramenta.
+* Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.
+É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. 
+É envolvido por:	
+. Entender o caso;
+. Definir cenário;
+. Definir e escrever regras;
+. Criar funcionalidades;
+. Pode atuar como gestor da ferramenta.
 
 * Desenvolvedor: Profissional que atua na criação efetiva da aplicação.
 É responsável por escrever o código de toda a lógica do funcionamento em linguagem de programação, utilizando as tecnologias disponíveis neste mercado:
@@ -67,7 +67,7 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 
 * Cliente: Quem necessita do serviço
 . Cliente faz a escolha do tipo de serviço que precisa;
-.  Escolhe profissional;
+. Escolhe profissional;
 . Acompanha  o andamento do serviço;
 . Faz pagamento;
 . Avalia profissional.
