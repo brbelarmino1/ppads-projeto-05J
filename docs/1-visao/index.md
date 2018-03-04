@@ -30,12 +30,12 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 
 * Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.
 É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. 
-É envolvido por:	
-. Entender o caso;
-. Definir cenário;
-. Definir e escrever regras;
-. Criar funcionalidades;
-. Pode atuar como gestor da ferramenta.
+*É envolvido por:	
+*. Entender o caso;
+*. Definir cenário;
+*. Definir e escrever regras;
+*. Criar funcionalidades;
+*. Pode atuar como gestor da ferramenta.
 
 * Desenvolvedor: Profissional que atua na criação efetiva da aplicação.
 É responsável por escrever o código de toda a lógica do funcionamento em linguagem de programação, utilizando as tecnologias disponíveis neste mercado:
