@@ -49,7 +49,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 É responsável por validar se de fato tudo o que foi descrito na especificação foi implementado no código. 
 É envolvido por:
 . Verificar a correlação entre especificação e desenvolvimento;
-. Encontrar falhas, erros;
+. Encontrar falhas, erros, possiveis melhorias;
 . Apontar correção nas regras;
 . Apontar correções no código;
 . Assegurar qualidade no funcionamento. 
