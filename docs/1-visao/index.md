@@ -9,7 +9,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 ## Problema
 
 * Descrição do problema: Necessidade de encontrar um profissional que presta serviços de utilidade e contratar alguém confiável. Da mesma forma, um profissional desta categoria, encontrar algum cliente.
-* Quem é afetado pelo problema: Pessoas que de repente estejam precisando de algum serviço dentre os mencionados para o aplicativo.
+* Quem é afetado pelo problema: Pessoas que de repente estejam precisando de algum serviço dentre os disponiveis no aplicativo.
 * Impacto no negócio: Busca por um profissional, contratação, mão de obra, pagamento, indicação.
 * Benefícios de uma boa solução: Praticidade, facilitador ao buscar o serviço desejado, ajuda a promover o trabalho do profissional.
 
@@ -82,7 +82,7 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 
 * Cadastro: Permite cadastrar na base de dados da aplicação clientes e profissionais.
 
-* Busca: Permite que um cliente possa buscar um profissional que atenda sua necessidade em um serviço de utilidade.
+* Busca: Permite que um cliente possa buscar um profissional que atenda sua necessidade em um serviço de utilidade, e permite que o profissional busque um cliente que necessite dos serviços que ele tem à oferecer.
 
 * Contato: São informados dados do profissional para que possa ser feito contato entre ambas as partes.
 
