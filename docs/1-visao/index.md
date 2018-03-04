@@ -31,7 +31,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 * Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.
 É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. 
 É envolvido por:
-. Entender o caso;
+1. Entender o caso;
 . Definir cenário;
 . Definir e escrever regras;
 . Criar funcionalidades;
