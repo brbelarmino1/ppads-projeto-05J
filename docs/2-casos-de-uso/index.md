@@ -2,9 +2,7 @@
 
 ## 1. Diagrama de casos de uso
 
-**Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
-
-![Exemplo de diagrama dos casos de uso](Caso-de-uso-principal.gif)
+![](Caso-de-uso-principal.gif)
 
 ## 2. Especificação dos casos de uso
 
