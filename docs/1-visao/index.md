@@ -21,10 +21,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* O Aplicativo de Utilidades não tem integração com outros sistemas.
  
 ## Interessados
 
