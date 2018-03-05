@@ -103,17 +103,19 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 
 ## Protótipos de tela
 
-### Protótipos para funcionalidade 1
+### Protótipos para funcionalidade Cadastro
 
 ![](proto1.png)
-![](Tela01Login.png =100x100)
+![](Tela01Login.png)
+![](Tela02Cadastro.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+### Protótipos para funcionalidade Busca
 
-### Protótipos para funcionalidade 2
+### Protótipos para funcionalidade Contato
 
-![](proto2.png)
+### Protótipos para funcionalidade Monitoramento
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+### Protótipos para funcionalidade Pagamento
 
-### Protótipos para funcionalidade N
+### Protótipos para funcionalidade Avaliação
+
