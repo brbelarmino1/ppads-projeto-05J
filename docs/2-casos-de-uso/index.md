@@ -114,4 +114,47 @@
 | 2) O cliente avalia o serviço prestado pelo fornecedor contratado. |
 | 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
 
+### 2.7. Caso de uso **VEIFICAR SOLITAÇÃO DE SERVIÇO**
 
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC07              |
+| Nome:          | Verificar solicitação de serviço |
+| Atores:        | Fornecedor |
+| Sumário:       | O fornecedor verifica os serviços solicitados. |
+
+| Fluxo Principal |
+|---|
+| 1) Sistema recupera dados do serviço solicitado e informa na tela para o fornecedor. |
+| 2) O fornecedor verifica o serviço solicitado e aceita/recusa o serviço. |
+| 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
+### 2.8. Caso de uso **MANTER SERVIÇOS**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC08              |
+| Nome:          | Manter serviços |
+| Atores:        | Fornecedor |
+| Sumário:       | O fornecedor realiza ediçoes caso necessário no serviço solicitado. |
+
+| Fluxo Principal |
+|---|
+| 1) Sistema recupera dados do serviço contratado e informa na tela para o fornecedor. |
+| 2) O fornecedor realiza as alterações desejadas. |
+| 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
+### 2.9. Caso de uso **CONFIRMAR COMPROVANTE DE PAGAMENTO**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC09              |
+| Nome:          | Confirmar Comprovante de pagamento |
+| Atores:        | Fornecedor |
+| Sumário:       | O fornecedor confirma/nega recebimento do comprovante por determinado serviço prestado. |
+
+| Fluxo Principal |
+|---|
+| 1) Sistema notifica fornecedor do recebimento de um comprovante e informa na tela o mesmo. |
+| 2) O fornecedor confirma/nega o recebimento do comprovante por determinado serviço prestado. |
+| 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
