@@ -64,4 +64,54 @@
 | 1) O cliente solicita o fornecedor. |
 | 2) O sistema notifica o fornecedor. Caso de uso é encerrado. |
 
+### 2.4. Caso de uso **MONITORAR SERVIÇO**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC04              |
+| Nome:          | Monitorar serviço |
+| Atores:        | Cliente |
+| Sumário:       | O cliente verifica o andamento do serviço solicitado. |
+
+| Fluxo Principal |
+|---|
+| 1) O cliente verifica andamento do serviço. |
+| 2) O sistema redireciona para outra tela caso cliente deseja realizar o pagamento. Caso de uso é encerrado. |
+
+| Fluxo Alternativo (2a): Os dados precism ser atualizados. |
+|---|
+| 1) O sistema redireciona para outra tela caso cliente deseja realizar o pagamento. Caso de uso é encerrado. |
+| 2) Volta ao passo 1 do fluxo principal. |
+
+### 2.5. Caso de uso **PAGAR PROFISSIONAL**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC05              |
+| Nome:          | Pagar Profissional |
+| Atores:        | Cliente |
+| Sumário:       | O cliente informa forma de pagamento desejada e, se desejar, envia uma imagem do comprovante. |
+
+| Fluxo Principal |
+|---|
+| 1) O cliente escolhe forma de pagamento. |
+| 2) O sistema recupera dados do serviço. |
+| 3) Cliente envia anexo se desejar. |
+| 4) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
+### 2.6. Caso de uso **AVALIAR PROFISSIONAL**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC06              |
+| Nome:          | Avaliar Profissional |
+| Atores:        | Cliente |
+| Sumário:       | O cliente avalia serviço prestado pelo fornecedor contratado. |
+
+| Fluxo Principal |
+|---|
+| 1) Sistema recupera dados do serviço contratado e informa na tela para o cliente. |
+| 2) O cliente avalia o serviço prestado pelo fornecedor contratado. |
+| 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
 
