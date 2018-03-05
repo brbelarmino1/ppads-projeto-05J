@@ -6,32 +6,62 @@
 
 ## 2. Especificação dos casos de uso
 
-**Instruções do professor**: Para cada caso de uso, criar as tabelas com a especificação do caso de uso. Siga o exemplo dado abaixo:
-
-### 2.1. Caso de uso **REGISTRAR CHAMADO**
+### 2.1. Caso de uso **MANTER CADASTRO**
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | UC01              |
-| Nome:          | Registrar chamado |
-| Atores:        | Membro do Help Desk |
-| Sumário:       | Registra um novo chamado no sistema |
+| Nome:          | Manter cadastro |
+| Atores:        | Cliente/Fornecedor |
+| Sumário:       | O usuário insere as informações para cadastro. Deve-se respeitar as regras de preenchimento dos campos. |
 
 | Fluxo Principal |
 |---|
-| 1) O membro do help desk seleciona a opção **Registro de novo chamado** e informa o CPF do cliente. |
-| 2) O sistema recupera as informações do cliente pelo CPF.                   |
-| 3) O sistema apresenta as informações do cliente e o formulário para o registro do chamado. |
-| 4) O membro do help desk informa o tipo de chamado e preenche o campo descrição com o relato do cliente. |
-| 5) O sistema registra o chamado e informa que a operação foi bem-sucedida. |
+| 1) O usuário informa os dados para cadastro, e seleciona todos os checkbox. |
+| 2) O sistema valida os dados fornecidos e todos os checkbox. |
+| 3) Sistema informa sucesso no cadastro, e redireciona para outra tela. Caso de uso é encerrado. |
 
-| Fluxo Alternativo (2a): O sistema não encontra as informações do cliente pelo CPF. |
+| Fluxo Alternativo (2a): Os dados informados estão incorretos. |
 |---|
-| 1) O sistema informa que não conseguiu recuperar as informações pelo CPF e apresenta a opção de cadastrar o cliente. |
-| 2) O membro do help desk preenche o formulário de cadastro do cliente. |
-| 3) O sistema registra os dados do cliente. |
-| 4) Volta ao passo (3) do fluxo principal. |
+| 1) O sistema informa que os dados estão incorretos ou os checkbox não estão selecionados. |
+| 2) Enquanto o usuário não informar corretamente os dados e selecionar todos os checkbox, o sistema informa que os dados estão incorretos ou checkbox não estão selecionados. |
+| 3) Usuário informa os dados corretamente e seleciona todos os checkbox. |
+| 4) Volta ao passo 2 do fluxo principal. |
 
-**Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
+### 2.2. Caso de uso **BUSCAR PROFISSIONAL**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC02              |
+| Nome:          | Buscar profissional |
+| Atores:        | Cliente |
+| Sumário:       | O cliente realiza a busca por um profissional, para realizar determinado serviço. |
+
+| Fluxo Principal |
+|---|
+| 1) O usuário informa os dados para cadastro, e seleciona todos os checkbox. |
+| 2) O sistema retorna uma lista com fornecedores do serviço buscado. |
+| 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
+| Fluxo Alternativo (2a): Os dados para busca estão vazios. |
+|---|
+| 1) O sistema informa que os dados da busca estão incorretos. |
+| 2) Enquanto o usuário não informar corretamente os dados para busca, o sistema exibe mensagem de erro. |
+| 3) Usuário informa os dados corretamente. |
+| 4) Volta ao passo 1 do fluxo principal. |
+
+### 2.3. Caso de uso **CONTRATAR PROFISSIONAL**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC03             |
+| Nome:          | Contratar Profissional |
+| Atores:        | Cliente |
+| Sumário:       | O cliente solicita o fornecedor selecionado. |
+
+| Fluxo Principal |
+|---|
+| 1) O cliente solicita o fornecedor. |
+| 2) O sistema notifica o fornecedor. Caso de uso é encerrado. |
 
 
