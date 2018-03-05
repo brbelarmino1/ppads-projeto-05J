@@ -105,17 +105,33 @@ Linha de comunicação e frente direta com o usuário, intermediador do contato 
 
 ### Protótipos para funcionalidade Cadastro
 
-![](proto1.png)
-![](Tela01Login.png)
 ![](Tela02Cadastro.png)
+![](Tela03Perfis.png)
+![](Tela04Menu.png)
 
 ### Protótipos para funcionalidade Busca
 
+![](Tela05Cliente.png)
+![](Tela06BuscarProfissional.png)
+
 ### Protótipos para funcionalidade Contato
+
+![](Tela07ContatoProfissional.png)
 
 ### Protótipos para funcionalidade Monitoramento
 
+![](Tela08Acompanhamento.png)
+![](Tela11Fornecedor.png)
+![](Tela12RegistroDeAtividades.png)
+
 ### Protótipos para funcionalidade Pagamento
+
+![](Tela09Pagamento.png)
+![](Tela10Confirmação.png)
+![](Tela13ConfirmarComprovante.png)
+![](Tela14ServiçoFinalizado.png)
 
 ### Protótipos para funcionalidade Avaliação
 
+![](proto1.png)
+![](Tela01Login.png)
