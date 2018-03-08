@@ -186,7 +186,7 @@
 | Campo          | Informação        |
 |---|---|
 | Identificador: | UC11              |
-| Nome:          | Confimrar email |
+| Nome:          | Confimar email |
 | Atores:        | Sistema de email |
 | Sumário:       |  |
 
