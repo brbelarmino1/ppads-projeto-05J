@@ -158,3 +158,47 @@
 | 1) Sistema notifica fornecedor do recebimento de um comprovante e informa na tela o mesmo. |
 | 2) O fornecedor confirma/nega o recebimento do comprovante por determinado serviço prestado. |
 | 3) Sistema redireciona para outra tela. Caso de uso é encerrado. |
+
+### 2.10. Caso de uso **NOTIFICAR USUARIO**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC10              |
+| Nome:          | Notificar Usuario |
+| Atores:        | Cliente/Fornecedor |
+| Sumário:       |  |
+
+| Fluxo Principal |
+|---|
+| 1)  |
+| 2)  |
+| 3)  |
+
+| Fluxo Alternativo (2a): |
+|---|
+| 1) |
+| 2) |
+| 3) |
+| 4) |
+
+### 2.11. Caso de uso **CONFIRMAR EMAIL**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | UC11              |
+| Nome:          | Confimrar email |
+| Atores:        | Sistema de email |
+| Sumário:       |  |
+
+| Fluxo Principal |
+|---|
+| 1)  |
+| 2)  |
+| 3)  |
+
+| Fluxo Alternativo (2a): |
+|---|
+| 1) |
+| 2) |
+| 3) |
+| 4) |
