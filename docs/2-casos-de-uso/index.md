@@ -188,7 +188,7 @@
 | Identificador: | UC11              |
 | Nome:          | Confimar email |
 | Atores:        | Sistema de email |
-| Sumário:       | O sistema de email após a finalização do cadastrao do usuario, dispara um e-mail para o mesmo confirmando o cadastro. |
+| Sumário:       | O sistema de email após a finalização do cadastro do usuario, dispara um e-mail para o mesmo confirmando o seu cadastro. |
 
 | Fluxo Principal |
 |---|
