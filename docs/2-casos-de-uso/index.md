@@ -166,7 +166,7 @@
 | Identificador: | UC10              |
 | Nome:          | Notificar Usuario |
 | Atores:        | Cliente/Fornecedor |
-| Sumário:       | Usuario recebe um notificação em fomato de push/pop up informando sobre a solicitação de um algum serviço. |
+| Sumário:       | Usuario recebe uma notificação em fomato de push/pop up informando sobre a solicitação de um algum serviço. |
 
 | Fluxo Principal |
 |---|
