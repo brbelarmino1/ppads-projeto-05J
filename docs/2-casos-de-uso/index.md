@@ -166,7 +166,7 @@
 | Identificador: | UC10              |
 | Nome:          | Notificar Usuario |
 | Atores:        | Cliente/Fornecedor |
-| Sumário:       |  |
+| Sumário:       | Usuario recebe um notificação em fomato de push/pop up informando sobre a solicitação de um algum serviço. |
 
 | Fluxo Principal |
 |---|
@@ -188,7 +188,7 @@
 | Identificador: | UC11              |
 | Nome:          | Confimar email |
 | Atores:        | Sistema de email |
-| Sumário:       |  |
+| Sumário:       | O sistema de email no momento do cadastro, dispara um e-mail para o usuario confirmando o cadastro. |
 
 | Fluxo Principal |
 |---|
