@@ -25,40 +25,14 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
  
 ## Interessados
 
-* Analista de Requisitos: Profissional que levanta quais são as regras necessárias para o funcionamento da aplicação.
-É responsável por entender do cenário como um todo e sobre isso aplicar sua visão técnica como analista. 
-É envolvido por:	
-. Entender o caso;
-. Definir cenário;
-. Definir e escrever regras;
-. Criar funcionalidades;
-. Pode atuar como gestor da ferramenta.
+* Gerente de projetos: Profissional que gere a equipe de desenvolvimento o andamento do projeto.
+É responsável por gerir o fluxo de atividades, cronogramas, acompanhar tarefas da equipe de desenvolvimento, interação com demais frentes de trabalho  e suportar à dúvidas pontuais relacionadas ao projeto. 
 
-* Desenvolvedor: Profissional que atua na criação efetiva da aplicação.
-É responsável por escrever o código de toda a lógica do funcionamento em linguagem de programação, utilizando as tecnologias disponíveis neste mercado:
-É envolvido por:
-. Atribuir para o código a regra descrita na especificação;
-. Implementar as soluções;
-. Integrar componentes necessários;
-. Responsável pela base de dados.
+* Fornecedores: Usuários que possuem serviços para divulgação no marketplace .  
 
-* Profissional que faz a validação das funcionalidades da aplicação. 
-É responsável por validar se de fato tudo o que foi descrito na especificação foi implementado no código. 
-É envolvido por:
-. Verificar a correlação entre especificação e desenvolvimento;
-. Encontrar falhas, erros, possiveis melhorias;
-. Apontar correção nas regras;
-. Apontar correções no código;
-. Assegurar qualidade no funcionamento. 
+* Público em geral: Usuários que terão acesso à plataforma para procurar fornecedores de acordo com a sua preferência. 
 
-* Analista de Produção
-Linha de comunicação e frente direta com o usuário, intermediador do contato com parte técnica (analista de requisitos, desenvolvedor, analista de teste)
-É responsável por assegurar o funcionamento da aplicação em ambiente de produção, sendo este o que efetivamente o cliente utiliza.
-É envolvido por:
-. Configurar o funcionamento em ambiente de produção;
-. Primeira comunicação quando o cliente entra em contato;
-. Monitora o ambiente;
-. Conhecimento também da parte técnica.
+* Solicitante: Pessoa responsável pela requisição do projeto. É o cliente final da plataforma.
 
 ## Usuários
 
