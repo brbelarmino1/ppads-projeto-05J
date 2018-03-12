@@ -21,7 +21,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 
 ## Integração com outros sistemas
 
-* O Aplicativo de Utilidades não tem integração com outros sistemas.
+O aplicativo terá integração com a API de mapas do Google para fornecer uma experiência melhor ao usuário quando pesquisar fornecedores ao redor dele. 
  
 ## Interessados
 
