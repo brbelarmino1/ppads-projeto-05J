@@ -23,7 +23,7 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 
 * Google Maps API: O aplicativo terá integração com a API de mapas do Google para proporcionar uma melhor experiênci ao usuário, exibindo fornecedores próximos a ele. 
 
-* Send grid API: Interface será utilizada para envio de confirmação de e-mail, quando um novo usuário/fornecedor se cadastra na plataforma.
+* Send grid API: Interface será utilizada para disparar automaticamente um e-mail de confirmação, quando um novo usuário/fornecedor se cadastra na plataforma.
  
 ## Interessados
 
