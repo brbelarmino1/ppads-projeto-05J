@@ -21,7 +21,9 @@ O sistema tem por objetivo integrar de forma inteligente qualquer pessoa que est
 
 ## Integração com outros sistemas
 
-O aplicativo terá integração com a API de mapas do Google para fornecer uma experiência melhor ao usuário quando pesquisar fornecedores ao redor dele. 
+* Google Maps API: O aplicativo terá integração com a API de mapas do Google para proporcionar uma melhor experiênci ao usuário, exibindo fornecedores próximos a ele. 
+
+* Send grid API: Interface será utilizada para envio de confirmação de e-mail, quando um novo usuário/fornecedor se cadastra na plataforma.
  
 ## Interessados
 
