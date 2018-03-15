@@ -195,6 +195,7 @@
 | Fluxo Alternativo (2a): E-mail não recebido pelo cliente |
 |---|
 | 1) Cliente solicita o reenvio do e-mail. |
-| 2) Sistema reenvia confirmação de e-mail. |
-| 3) Volta ao passo 3 do fluxo principal. |
+| 2) Cliente informa e-mail. |
+| 3) Sistema reenvia confirmação de e-mail. |
+| 4) Volta ao passo 3 do fluxo principal. |
 
