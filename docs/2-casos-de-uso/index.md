@@ -170,16 +170,10 @@
 
 | Fluxo Principal |
 |---|
-| 1)  |
-| 2)  |
-| 3)  |
+| 1)  Fornecedor confirma o comprovante de pagamento. |
+| 2)  Sistema notifica o cliente sobre o serviço contratado. |
+| 3)  Fim do fluxo principal. |
 
-| Fluxo Alternativo (2a): |
-|---|
-| 1) |
-| 2) |
-| 3) |
-| 4) |
 
 ### 2.11. Caso de uso **CONFIRMAR EMAIL**
 
@@ -188,17 +182,19 @@
 | Identificador: | UC11              |
 | Nome:          | Confimar email |
 | Atores:        | Sistema de email |
-| Sumário:       | O sistema de email após a finalização do cadastro do usuario, dispara um e-mail para o mesmo confirmando o seu cadastro. |
+| Sumário:       | O sistema de email dispara e-mail de confirmação do e-mail cadastrado. |
 
 | Fluxo Principal |
 |---|
-| 1)  |
-| 2)  |
-| 3)  |
+| 1) Cliente salva o cadastro. |
+| 2) Sistema envia mensagem de confirmação do e-mail cadastrado. |
+| 3) Cliente clica no link do e-mail para confirmar o e-mail informado. |
+| 4) Sistema exibe tela web confirmando o cadastro. |
+| 5) Fim do fluxo principal. |
 
-| Fluxo Alternativo (2a): |
+| Fluxo Alternativo (2a): E-mail não recebido pelo cliente |
 |---|
-| 1) |
-| 2) |
-| 3) |
-| 4) |
+| 1) | Cliente solicita o reenvio do e-mail. |
+| 2) | Sistema reenvia confirmação de e-mail. |
+| 3) | Fluxo alternativo é encerrado. Retorna ao item 3 do fluxo principal. |
+
