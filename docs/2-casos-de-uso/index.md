@@ -187,14 +187,14 @@
 | Fluxo Principal |
 |---|
 | 1) Cliente salva o cadastro. |
-| 2) Sistema envia mensagem de confirmação do e-mail cadastrado. |
-| 3) Cliente clica no link do e-mail para confirmar o e-mail informado. |
-| 4) Sistema exibe tela web confirmando o cadastro. |
+| 2) Sistema envia um e-mail de confirmação para o e-mail cadastrado. |
+| 3) Cliente clica no link do e-mail para confirmar a existência do e-mail informado. |
+| 4) Sistema exibe tela web confirmando o e-mail cadastrado. |
 | 5) Fim do fluxo principal. |
 
 | Fluxo Alternativo (2a): E-mail não recebido pelo cliente |
 |---|
 | 1) Cliente solicita o reenvio do e-mail. |
 | 2) Sistema reenvia confirmação de e-mail. |
-| 3) Fluxo alternativo é encerrado. Retorna ao item 3 do fluxo principal. |
+| 3) Volta ao passo 3 do fluxo principal. |
 
