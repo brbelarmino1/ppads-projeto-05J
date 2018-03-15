@@ -182,7 +182,7 @@
 | Identificador: | UC11              |
 | Nome:          | Confimar email |
 | Atores:        | Sistema de email |
-| Sumário:       | O sistema de email dispara e-mail de confirmação do e-mail cadastrado. |
+| Sumário:       | O sistema de email dispara um e-mail de confirmação para o e-mail cadastrado. |
 
 | Fluxo Principal |
 |---|
