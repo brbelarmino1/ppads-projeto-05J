@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de casos de uso
 
-![](Caso-de-uso.xps)
+![](Casos-de-uso.xps)
 
 ## 2. Especificação dos casos de uso
 
